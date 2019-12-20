@@ -1,5 +1,3 @@
-https://tictactoe-react-redv.herokuapp.com/
-
 <p align="center">
   <h1 align="center">ReactJS Tic Tac Toe</h1>
 
